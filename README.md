@@ -177,7 +177,7 @@
     </section>
 
     <footer>
-        
+        <!-- Copyright notice removed as requested -->
     </footer>
 </body>
 </html>
